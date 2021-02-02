@@ -1,0 +1,20 @@
+<companys>
+        <company id='11'>
+		    <name>Samsung </name>
+			<UNIT PRICE>35000</UNIT PRICE>
+			<STOCK>50</STOCK>
+			<STATUS>1</STATUS>
+		</company>
+		<company id='11'>
+		    <name>Htc</name>
+			<UNIT PRICE>65300</UNIT PRICE>
+			<STOCK>35</STOCK>
+			<STATUS>0</STATUS>
+		</company>
+		<company id='11'>
+		    <name>Nokia</name>
+			<UNIT PRICE> 25100</UNIT PRICE>
+			<STOCK>100</STOCK>
+			<STATUS>1</STATUS>
+		</company>
+</company>
